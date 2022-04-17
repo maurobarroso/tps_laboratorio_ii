@@ -1,0 +1,42 @@
+C:\Users\maurojas\Documents\Alumni\Proyectos\TPS\TP1\Rojas.Mauricio.2D.TP1\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.exe
+C:\Users\maurojas\Documents\Alumni\Proyectos\TPS\TP1\Rojas.Mauricio.2D.TP1\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.deps.json
+C:\Users\maurojas\Documents\Alumni\Proyectos\TPS\TP1\Rojas.Mauricio.2D.TP1\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.runtimeconfig.json
+C:\Users\maurojas\Documents\Alumni\Proyectos\TPS\TP1\Rojas.Mauricio.2D.TP1\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.runtimeconfig.dev.json
+C:\Users\maurojas\Documents\Alumni\Proyectos\TPS\TP1\Rojas.Mauricio.2D.TP1\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.dll
+C:\Users\maurojas\Documents\Alumni\Proyectos\TPS\TP1\Rojas.Mauricio.2D.TP1\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.pdb
+C:\Users\maurojas\Documents\Alumni\Proyectos\TPS\TP1\Rojas.Mauricio.2D.TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.csproj.AssemblyReference.cache
+C:\Users\maurojas\Documents\Alumni\Proyectos\TPS\TP1\Rojas.Mauricio.2D.TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.FormCalculadora.resources
+C:\Users\maurojas\Documents\Alumni\Proyectos\TPS\TP1\Rojas.Mauricio.2D.TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\maurojas\Documents\Alumni\Proyectos\TPS\TP1\Rojas.Mauricio.2D.TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maurojas\Documents\Alumni\Proyectos\TPS\TP1\Rojas.Mauricio.2D.TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.AssemblyInfoInputs.cache
+C:\Users\maurojas\Documents\Alumni\Proyectos\TPS\TP1\Rojas.Mauricio.2D.TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.AssemblyInfo.cs
+C:\Users\maurojas\Documents\Alumni\Proyectos\TPS\TP1\Rojas.Mauricio.2D.TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\maurojas\Documents\Alumni\Proyectos\TPS\TP1\Rojas.Mauricio.2D.TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.dll
+C:\Users\maurojas\Documents\Alumni\Proyectos\TPS\TP1\Rojas.Mauricio.2D.TP1\MiCalculadora\obj\Debug\net5.0-windows\refint\MiCalculadora.dll
+C:\Users\maurojas\Documents\Alumni\Proyectos\TPS\TP1\Rojas.Mauricio.2D.TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.pdb
+C:\Users\maurojas\Documents\Alumni\Proyectos\TPS\TP1\Rojas.Mauricio.2D.TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.genruntimeconfig.cache
+C:\Users\maurojas\Documents\Alumni\Proyectos\TPS\TP1\Rojas.Mauricio.2D.TP1\MiCalculadora\obj\Debug\net5.0-windows\ref\MiCalculadora.dll
+C:\Users\maurojas\Documents\Alumni\Proyectos\TPS\TP1\Rojas.Mauricio.2D.TP1\MiCalculadora\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\maurojas\Documents\Alumni\Proyectos\TPS\TP1\Rojas.Mauricio.2D.TP1\MiCalculadora\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\maurojas\Documents\Alumni\Proyectos\TPS\TP1\Rojas.Mauricio.2D.TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.csproj.CopyComplete
+C:\Users\Mauro\Desktop\TRABAJO PRACTICO\TP1\Barroso.Mauro.2D.TP1\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.exe
+C:\Users\Mauro\Desktop\TRABAJO PRACTICO\TP1\Barroso.Mauro.2D.TP1\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.deps.json
+C:\Users\Mauro\Desktop\TRABAJO PRACTICO\TP1\Barroso.Mauro.2D.TP1\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.runtimeconfig.json
+C:\Users\Mauro\Desktop\TRABAJO PRACTICO\TP1\Barroso.Mauro.2D.TP1\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.runtimeconfig.dev.json
+C:\Users\Mauro\Desktop\TRABAJO PRACTICO\TP1\Barroso.Mauro.2D.TP1\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.dll
+C:\Users\Mauro\Desktop\TRABAJO PRACTICO\TP1\Barroso.Mauro.2D.TP1\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.pdb
+C:\Users\Mauro\Desktop\TRABAJO PRACTICO\TP1\Barroso.Mauro.2D.TP1\MiCalculadora\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\Mauro\Desktop\TRABAJO PRACTICO\TP1\Barroso.Mauro.2D.TP1\MiCalculadora\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\Mauro\Desktop\TRABAJO PRACTICO\TP1\Barroso.Mauro.2D.TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.csproj.AssemblyReference.cache
+C:\Users\Mauro\Desktop\TRABAJO PRACTICO\TP1\Barroso.Mauro.2D.TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.FormCalculadora.resources
+C:\Users\Mauro\Desktop\TRABAJO PRACTICO\TP1\Barroso.Mauro.2D.TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\Mauro\Desktop\TRABAJO PRACTICO\TP1\Barroso.Mauro.2D.TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauro\Desktop\TRABAJO PRACTICO\TP1\Barroso.Mauro.2D.TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.AssemblyInfoInputs.cache
+C:\Users\Mauro\Desktop\TRABAJO PRACTICO\TP1\Barroso.Mauro.2D.TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.AssemblyInfo.cs
+C:\Users\Mauro\Desktop\TRABAJO PRACTICO\TP1\Barroso.Mauro.2D.TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Mauro\Desktop\TRABAJO PRACTICO\TP1\Barroso.Mauro.2D.TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.csproj.CopyComplete
+C:\Users\Mauro\Desktop\TRABAJO PRACTICO\TP1\Barroso.Mauro.2D.TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.dll
+C:\Users\Mauro\Desktop\TRABAJO PRACTICO\TP1\Barroso.Mauro.2D.TP1\MiCalculadora\obj\Debug\net5.0-windows\refint\MiCalculadora.dll
+C:\Users\Mauro\Desktop\TRABAJO PRACTICO\TP1\Barroso.Mauro.2D.TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.pdb
+C:\Users\Mauro\Desktop\TRABAJO PRACTICO\TP1\Barroso.Mauro.2D.TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.genruntimeconfig.cache
+C:\Users\Mauro\Desktop\TRABAJO PRACTICO\TP1\Barroso.Mauro.2D.TP1\MiCalculadora\obj\Debug\net5.0-windows\ref\MiCalculadora.dll

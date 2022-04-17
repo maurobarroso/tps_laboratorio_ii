@@ -1,0 +1,24 @@
+C:\Users\maurojas\Documents\Alumni\Proyectos\TPS\TP1\Rojas.Mauricio.2D.TP1\Entidades\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\maurojas\Documents\Alumni\Proyectos\TPS\TP1\Rojas.Mauricio.2D.TP1\Entidades\bin\Debug\net5.0\Entidades.dll
+C:\Users\maurojas\Documents\Alumni\Proyectos\TPS\TP1\Rojas.Mauricio.2D.TP1\Entidades\bin\Debug\net5.0\Entidades.pdb
+C:\Users\maurojas\Documents\Alumni\Proyectos\TPS\TP1\Rojas.Mauricio.2D.TP1\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\maurojas\Documents\Alumni\Proyectos\TPS\TP1\Rojas.Mauricio.2D.TP1\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maurojas\Documents\Alumni\Proyectos\TPS\TP1\Rojas.Mauricio.2D.TP1\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\maurojas\Documents\Alumni\Proyectos\TPS\TP1\Rojas.Mauricio.2D.TP1\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\maurojas\Documents\Alumni\Proyectos\TPS\TP1\Rojas.Mauricio.2D.TP1\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\maurojas\Documents\Alumni\Proyectos\TPS\TP1\Rojas.Mauricio.2D.TP1\Entidades\obj\Debug\net5.0\Entidades.dll
+C:\Users\maurojas\Documents\Alumni\Proyectos\TPS\TP1\Rojas.Mauricio.2D.TP1\Entidades\obj\Debug\net5.0\refint\Entidades.dll
+C:\Users\maurojas\Documents\Alumni\Proyectos\TPS\TP1\Rojas.Mauricio.2D.TP1\Entidades\obj\Debug\net5.0\Entidades.pdb
+C:\Users\maurojas\Documents\Alumni\Proyectos\TPS\TP1\Rojas.Mauricio.2D.TP1\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+C:\Users\Mauro\Desktop\TRABAJO PRACTICO\TP1\Barroso.Mauro.2D.TP1\Entidades\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\Mauro\Desktop\TRABAJO PRACTICO\TP1\Barroso.Mauro.2D.TP1\Entidades\bin\Debug\net5.0\Entidades.dll
+C:\Users\Mauro\Desktop\TRABAJO PRACTICO\TP1\Barroso.Mauro.2D.TP1\Entidades\bin\Debug\net5.0\Entidades.pdb
+C:\Users\Mauro\Desktop\TRABAJO PRACTICO\TP1\Barroso.Mauro.2D.TP1\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\Mauro\Desktop\TRABAJO PRACTICO\TP1\Barroso.Mauro.2D.TP1\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauro\Desktop\TRABAJO PRACTICO\TP1\Barroso.Mauro.2D.TP1\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\Mauro\Desktop\TRABAJO PRACTICO\TP1\Barroso.Mauro.2D.TP1\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\Mauro\Desktop\TRABAJO PRACTICO\TP1\Barroso.Mauro.2D.TP1\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Mauro\Desktop\TRABAJO PRACTICO\TP1\Barroso.Mauro.2D.TP1\Entidades\obj\Debug\net5.0\Entidades.dll
+C:\Users\Mauro\Desktop\TRABAJO PRACTICO\TP1\Barroso.Mauro.2D.TP1\Entidades\obj\Debug\net5.0\refint\Entidades.dll
+C:\Users\Mauro\Desktop\TRABAJO PRACTICO\TP1\Barroso.Mauro.2D.TP1\Entidades\obj\Debug\net5.0\Entidades.pdb
+C:\Users\Mauro\Desktop\TRABAJO PRACTICO\TP1\Barroso.Mauro.2D.TP1\Entidades\obj\Debug\net5.0\ref\Entidades.dll
