@@ -1,0 +1,31 @@
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\bin\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\bin\Debug\Entidades.pdb
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\obj\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\obj\Debug\Entidades.pdb
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\obj\Debug\Entidades.dll
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\obj\Debug\Entidades.pdb
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\bin\Debug\Entidades.dll
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\bin\Debug\Entidades.pdb
+D:\Federico\VB .Net\Visual C#\utn\TPs\2018\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\TPs\2018\TP-02\Entidades\obj\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\TPs\2018\TP-02\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Mauro\Desktop\Programacion 2\TP2\TP-02-Cascara.r2\TP-02\Entidades\bin\Debug\Entidades.dll
+C:\Users\Mauro\Desktop\Programacion 2\TP2\TP-02-Cascara.r2\TP-02\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Mauro\Desktop\Programacion 2\TP2\TP-02-Cascara.r2\TP-02\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Mauro\Desktop\Programacion 2\TP2\TP-02-Cascara.r2\TP-02\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Mauro\Desktop\Programacion 2\TP2\TP-02-Cascara.r2\TP-02\Entidades\obj\Debug\Entidades.dll
+C:\Users\Mauro\Desktop\Programacion 2\TP2\TP-02-Cascara.r2\TP-02\Entidades\obj\Debug\Entidades.pdb
+C:\Users\mauri\Downloads\TP-02\TP-02\Entidades\bin\Debug\Entidades.dll
+C:\Users\mauri\Downloads\TP-02\TP-02\Entidades\bin\Debug\Entidades.pdb
+C:\Users\mauri\Downloads\TP-02\TP-02\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\mauri\Downloads\TP-02\TP-02\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\mauri\Downloads\TP-02\TP-02\Entidades\obj\Debug\Entidades.dll
+C:\Users\mauri\Downloads\TP-02\TP-02\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Mauro\Desktop\TRABAJO PRACTICO\TP1\Barroso.Mauro.2D.TP2\Entidades\bin\Debug\Entidades.dll
+C:\Users\Mauro\Desktop\TRABAJO PRACTICO\TP1\Barroso.Mauro.2D.TP2\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Mauro\Desktop\TRABAJO PRACTICO\TP1\Barroso.Mauro.2D.TP2\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Mauro\Desktop\TRABAJO PRACTICO\TP1\Barroso.Mauro.2D.TP2\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Mauro\Desktop\TRABAJO PRACTICO\TP1\Barroso.Mauro.2D.TP2\Entidades\obj\Debug\Entidades.dll
+C:\Users\Mauro\Desktop\TRABAJO PRACTICO\TP1\Barroso.Mauro.2D.TP2\Entidades\obj\Debug\Entidades.pdb
